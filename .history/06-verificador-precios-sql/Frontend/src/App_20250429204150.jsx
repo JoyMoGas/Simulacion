@@ -33,7 +33,7 @@ export default function App() {
         </ProductProvider>
       </ThemeProvider>
       <div className='floating-buttons'>
-        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/06-verificador-precios-sql/Frontend' target="_blank" rel="noopener noreferrer">
+        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/06-verificador-precios-sql' target="_blank" rel="noopener noreferrer">
           <button className='btn-pj'>
             <p>Ver código fuente</p>
           </button>
