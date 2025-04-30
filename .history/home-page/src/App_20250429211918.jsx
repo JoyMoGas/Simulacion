@@ -17,6 +17,13 @@ function App() {
           <ProjectButton title="Verificador De Precios" url="https://precios-json.vercel.app" subtitle="Con archivo JSON" />
           <ProjectButton title="Verificador De Precios" url="https://precios-sql.vercel.app" subtitle="Con base de datos SQL" />
         </div>
+        <div className='floating-buttons-right'>
+          <a href='https://simulacion-home.vercel.app/' rel="noopener noreferrer">
+            <button className='btn-pj-right'>
+              <p>Regresar</p>
+            </button>
+          </a>
+        </div>
       </div>
     </>
   )

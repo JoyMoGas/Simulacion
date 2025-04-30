@@ -70,7 +70,7 @@ button {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  z-index: 999; /* para que estén por encima de todo */
+  z-index: 999;
 }
 
 .floating-buttons .btn-pj {
@@ -85,6 +85,32 @@ button {
 }
 
 .floating-buttons .btn-pj:hover {
+  background-color: #bfa1815a;
+  border-color: #f4ab5e;
+}
+
+.floating-buttons-right {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 999;
+}
+
+.floating-buttons-right .btn-pj-right {
+  background-color: #0A1828;
+  color: #BFA181;
+  border: 1px solid #BFA181;
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.floating-buttons-right .btn-pj-right:hover {
   background-color: #bfa1815a;
   border-color: #f4ab5e;
 }

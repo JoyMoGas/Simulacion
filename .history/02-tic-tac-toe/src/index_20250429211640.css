@@ -136,7 +136,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  z-index: 999;
+  z-index: 999; /* para que estén por encima de todo */
 }
 
 .floating-buttons .btn-pj {
