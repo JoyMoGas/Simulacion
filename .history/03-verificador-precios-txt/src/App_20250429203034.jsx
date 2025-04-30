@@ -12,7 +12,7 @@ export default function App() {
   return (
     <div className='container'>
       <h1>Verificador De precios</h1>
-      <h3>Con archivo CSV</h3>
+      <h3>Con archivo TXT</h3>
       <ThemeProvider>
         <ProductProvider>
           <div className="app-container">
@@ -33,14 +33,14 @@ export default function App() {
         </ProductProvider>
       </ThemeProvider>
       <div className='floating-buttons'>
-        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/04-verificador-precios-csv' target="_blank" rel="noopener noreferrer">
+        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/03-verificador-precios-txt' target="_blank" rel="noopener noreferrer">
           <button className='btn-pj'>
             <p>Ver código fuente</p>
           </button>
         </a>
-        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/04-verificador-precios-txt/CSV.txt' target="_blank" rel="noopener noreferrer">
+        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/03-verificador-precios-txt/productos.txt' target="_blank" rel="noopener noreferrer">
           <button className='btn-pj'>
-            <p>Ver archivo CSV</p>
+            <p>Ver código SQL</p>
           </button>
         </a>
       </div>

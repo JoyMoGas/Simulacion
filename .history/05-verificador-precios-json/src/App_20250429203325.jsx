@@ -12,7 +12,7 @@ export default function App() {
   return (
     <div className='container'>
       <h1>Verificador De precios</h1>
-      <h3>Con archivo CSV</h3>
+      <h3>Con archivo JSON</h3>
       <ThemeProvider>
         <ProductProvider>
           <div className="app-container">

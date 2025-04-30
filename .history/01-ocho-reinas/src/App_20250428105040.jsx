@@ -172,14 +172,6 @@ function App() {
           </div>
         ))}
       </section>
-
-      <div className='floating-buttons'>
-        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/01-ocho-reinas' target="_blank" rel="noopener noreferrer">
-          <button className='btn-pj'>
-            <p>Ver código fuente</p>
-          </button>
-        </a>
-      </div>
     </main>
   )
 }

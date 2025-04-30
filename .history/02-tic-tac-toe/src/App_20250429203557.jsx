@@ -111,9 +111,14 @@ function App() {
       </section>
 
       <div className='floating-buttons'>
-        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/02-tic-tac-toe' target="_blank" rel="noopener noreferrer">
+        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/05-verificador-precios-json' target="_blank" rel="noopener noreferrer">
           <button className='btn-pj'>
             <p>Ver código fuente</p>
+          </button>
+        </a>
+        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/05-verificador-precios-json/JSON.json' target="_blank" rel="noopener noreferrer">
+          <button className='btn-pj'>
+            <p>Ver archivo JSON</p>
           </button>
         </a>
       </div>
