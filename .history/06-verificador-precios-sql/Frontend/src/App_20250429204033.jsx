@@ -43,11 +43,6 @@ export default function App() {
             <p>Ver archivo SQL</p>
           </button>
         </a>
-        <a href='https://github.com/JoyMoGas/Simulacion/tree/main/06-verificador-precios-sql/SQL.txt' target="_blank" rel="noopener noreferrer">
-          <button className='btn-pj'>
-            <p>Ver código API</p>
-          </button>
-        </a>
       </div>
     </div>
   );
