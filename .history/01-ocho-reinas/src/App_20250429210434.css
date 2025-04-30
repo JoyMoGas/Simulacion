@@ -116,16 +116,12 @@ body {
 }
 
 select {
-  background-color: #0a1828b8;
-  color: #BFA181;
   padding: 10px;
   font-size: 16px;
   margin: 10px;
 }
 
 button {
-  background-color: #0a1828b8;
-  color: #BFA181;
   margin: 10px;
   padding: 10px;
   font-size: 16px;

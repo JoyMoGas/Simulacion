@@ -6,7 +6,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #0A1828;
+  background-color: #242424;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -36,7 +36,7 @@ body {
 }
 
 .board h1 {
-  color: #178582;
+  color: #eee;
   margin-bottom: 16px;
 }
 
@@ -44,8 +44,8 @@ body {
   padding: 8px 12px;
   margin: 25px;
   background: transparent;
-  border: 2px solid #BFA181;
-  color: #BFA181;
+  border: 2px solid #eee;
+  color: #eee;
   width: 100px;
   border-radius: 5px;
   transition: 0.2s;
@@ -54,8 +54,8 @@ body {
 }
 
 .board button:hover {
-  background: #bfa1815a;
-  color: #f4ab5e;
+  background: #eee;
+  color: #222;
 }
 
 .cell:hover {
@@ -116,16 +116,12 @@ body {
 }
 
 select {
-  background-color: #0a1828b8;
-  color: #BFA181;
   padding: 10px;
   font-size: 16px;
   margin: 10px;
 }
 
 button {
-  background-color: #0a1828b8;
-  color: #BFA181;
   margin: 10px;
   padding: 10px;
   font-size: 16px;
