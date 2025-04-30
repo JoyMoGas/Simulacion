@@ -11,6 +11,11 @@ body.dark {
   color: #f4f4f4;
 }
 
+.container {
+  text-align: center;
+}
+
+
 .app-container {
   text-align: center;
   padding: 2rem;
