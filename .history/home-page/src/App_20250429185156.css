@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: column; /* Cada botón será un ítem en una columna */
+  padding: 10px;
+}
+
+.btn-pj {
+  padding: 5px 20px;
+  width: 250px;
+  background-color: transparent;
+  color: #BFA181;
+  border: 1px solid #BFA181;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-pj:hover {
+  background-color: #bfa1815a;
+  border-color: #f4ab5e;
+}
+
+.btn-p {
+  padding: 0;
+  font-size: 0.8rem;
+  color: #d5a877;
+}
+
+.btn-row {
+  display: flex;
+  justify-content: space-between; /* Espacio entre las columnas */
+  gap: 20px; /* Espacio entre botones */
+}
+
+.btn-column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Espacio entre botones dentro de cada columna */
+  flex: 1;
+}

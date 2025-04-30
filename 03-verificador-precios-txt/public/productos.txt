@@ -1,0 +1,20 @@
+1001|Cereal|3.50  
+1002|Leche|1.75  
+1003|Jugo de naranja|2.10  
+1004|Pan integral|1.20  
+1005|Queso cheddar|4.00  
+1006|Galletas|2.50  
+1007|Arroz|1.90  
+1008|Atún en lata|2.30  
+1009|Café|3.20  
+1010|Azúcar|1.00  
+1011|Harina|1.10  
+1012|Huevos|2.80  
+1013|Mantequilla|3.00  
+1014|Jamón|3.40  
+1015|Yogur|1.60  
+1016|Aceite vegetal|4.50  
+1017|Pasta|2.00  
+1018|Salsa de tomate|1.70  
+1019|Refresco|1.85  
+1020|Chocolate|2.75  

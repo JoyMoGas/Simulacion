@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+body.dark {
+  background-color: #1e1e1e;
+  color: #f4f4f4;
+}
+
+.app-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.corner-image {
+  width: 60px;
+  height: auto;
+}
+
+.clock {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.scanner input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-right: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.display {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+
+.display-items{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 30px;
+  
+}
+.display-text{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.product-img {
+    width: 180px;
+    height: 280px;
+    object-fit: contain;
+  
+}
