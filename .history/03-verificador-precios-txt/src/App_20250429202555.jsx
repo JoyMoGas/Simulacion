@@ -32,19 +32,19 @@ export default function App() {
           </div>
         </ProductProvider>
       </ThemeProvider>
-      <div className='floating-buttons'>
+      <div className='btn-container'>
         <a href='https://github.com/JoyMoGas/Simulacion/tree/main/03-verificador-precios-txt' target="_blank" rel="noopener noreferrer">
           <button className='btn-pj'>
-            <p>Ver código fuente</p>
+            <p>Ver codigo fuente</p>
           </button>
         </a>
         <a href='https://github.com/JoyMoGas/Simulacion/tree/main/03-verificador-precios-txt/SQL.txt' target="_blank" rel="noopener noreferrer">
           <button className='btn-pj'>
-            <p>Ver código SQL</p>
+            <p>Ver codigo SQL</p>
           </button>
         </a>
-      </div>
-
+      
+    </div>
     </div>
   );
 }
