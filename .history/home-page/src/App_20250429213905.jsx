@@ -14,8 +14,8 @@ function App() {
         </div>
         <div className="btn-column">
           <ProjectButton title="Verificador De Precios" url="https://precios-csv.vercel.app" subtitle="Con archivo CSV" />
-          <ProjectButton title="Verificador De Precios" url="https://precios-json.vercel.app" subtitle="Con archivo JSON" />
-          <ProjectButton title="Verificador De Precios" url="https://precios-sql.vercel.app" subtitle="Con base de datos SQL" />
+          <ProjectButton title="Verificador De Precios" url="https://precios-json.vercel.app/" subtitle="Con archivo JSON" />
+          <ProjectButton title="Verificador De Precios" url="https://precios-sql.vercel.app/" subtitle="Con base de datos SQL" />
         </div>
       </div>
     </>
