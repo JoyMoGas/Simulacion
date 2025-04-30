@@ -7,11 +7,12 @@ body {
 }
 
 body.dark {
-  background-color: #1e1e1e;
+  background-color: #213547;
   color: #f4f4f4;
 }
 
 .container {
+  color: #178582;
   text-align: center;
 }
 

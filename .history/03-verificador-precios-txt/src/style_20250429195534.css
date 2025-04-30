@@ -12,10 +12,8 @@ body.dark {
 }
 
 .container {
-  color: #178582;
   text-align: center;
 }
-
 
 .app-container {
   text-align: center;
@@ -61,25 +59,4 @@ button {
 .display {
   margin-top: 1rem;
   font-size: 1.25rem;
-}
-
-.display-items{
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  gap: 30px;
-  
-}
-.display-text{
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  flex-direction: column;
-}
-
-.product-img {
-    width: 180px;
-    height: 280px;
-    object-fit: contain;
-  
 }
